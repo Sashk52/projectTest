@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class simpleHelloWoldApp {
+public class simpleHelloWoldApp {
+    public static void main(String [] args){
+    System.out.println("Hello world!");
+    }
 }
